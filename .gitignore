@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+*.iml
+native_android/.gradle/
+native_android/.kotlin/
+native_android/build/
+native_android/app/build/
+native_android/local.properties

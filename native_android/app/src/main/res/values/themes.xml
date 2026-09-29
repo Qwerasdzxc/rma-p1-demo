@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Demo" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#2B6CB0</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorOnSurface">#1B2A44</item>
+        <item name="colorOnSurfaceVariant">#5A6472</item>
+        <item name="colorSurfaceContainerHighest">#E9EEF5</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
